@@ -1,0 +1,3 @@
+/home/foldfunc/Dev/Github/CppLearn/cmake/build/CMakeFiles/main.dir
+/home/foldfunc/Dev/Github/CppLearn/cmake/build/CMakeFiles/edit_cache.dir
+/home/foldfunc/Dev/Github/CppLearn/cmake/build/CMakeFiles/rebuild_cache.dir
