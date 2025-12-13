@@ -1,0 +1,23 @@
+[ 33%] Building CXX object CMakeFiles/app.dir/calc.cppm.o
+/home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm:1:1: warning: keyword ‘export’ is enabled with ‘-fmodules’
+    1 | export module calc;
+      | ^~~~~~
+/home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm:1:8: error: ‘module’ does not name a type
+    1 | export module calc;
+      |        ^~~~~~
+/home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm:1:8: note: C++20 ‘module’ only available with ‘-fmodules’, which is not yet enabled with ‘-std=c++20’
+/home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm:3:1: warning: keyword ‘export’ is enabled with ‘-fmodules’
+    3 | export inline int add(int a, int b) {
+      | ^~~~~~
+/home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm:6:1: warning: keyword ‘export’ is enabled with ‘-fmodules’
+    6 | export inline int sub(int a, int b) {
+      | ^~~~~~
+/home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm:9:1: warning: keyword ‘export’ is enabled with ‘-fmodules’
+    9 | export inline int mul(int a, int b) {
+      | ^~~~~~
+/home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm:12:1: warning: keyword ‘export’ is enabled with ‘-fmodules’
+   12 | export inline float division(int a, int b) {
+      | ^~~~~~
+make[2]: *** [CMakeFiles/app.dir/build.make:79: CMakeFiles/app.dir/calc.cppm.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:87: CMakeFiles/app.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2

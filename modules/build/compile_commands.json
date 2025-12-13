@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/foldfunc/Dev/Github/CppLearn/modules/build",
+  "command": "/usr/bin/c++   -std=gnu++23 -fmodules-ts -o CMakeFiles/app.dir/calc.cppm.o -c /home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm",
+  "file": "/home/foldfunc/Dev/Github/CppLearn/modules/calc.cppm",
+  "output": "CMakeFiles/app.dir/calc.cppm.o"
+},
+{
+  "directory": "/home/foldfunc/Dev/Github/CppLearn/modules/build",
+  "command": "/usr/bin/c++   -std=gnu++23 -fmodules-ts -o CMakeFiles/app.dir/main.cpp.o -c /home/foldfunc/Dev/Github/CppLearn/modules/main.cpp",
+  "file": "/home/foldfunc/Dev/Github/CppLearn/modules/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.o"
+}
+]

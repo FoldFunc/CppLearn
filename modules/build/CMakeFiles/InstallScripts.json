@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/foldfunc/Dev/Github/CppLearn/modules/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
